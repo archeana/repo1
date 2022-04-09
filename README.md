@@ -1,7 +1,7 @@
 ## Title
 
-* [What is this project about and why is it important?](#What is this project about and why is it important?)
-* [Team](#Team)
+* [What is this project about and why is it important?](#what-is-this-project-about-and-why-is-it-important)
+* [Team](#team)
 * [Glossary](#glossary)
 
 
